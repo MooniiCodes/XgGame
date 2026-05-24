@@ -1,7 +1,7 @@
 # XgGame
 Make games with your favorite framework
 
-# Contributers
+# Contributors
 - Mr. Moonii
 - Jdoggames4
   
